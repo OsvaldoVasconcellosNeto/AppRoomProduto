@@ -12,8 +12,8 @@ usando persistência local com Room (SQLite).
 - ViewBinding
 - Corrotinas (lifecycleScope)
 ## Prints do app
-![Tela inicial](docs/prints/tela-inicial.png)
-![Logcat com a listagem](docs/prints/logcat.png)
+![Tela inicial](docs/prints/tela-inicial.PNG)
+![Logcat com a listagem](docs/prints/logcat.PNG)
 ## Parte A: Complemento prático
 ### A1. Limpar campos após inserir
 O que foi feito: ...
